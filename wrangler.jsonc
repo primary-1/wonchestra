@@ -1,10 +1,7 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  // 서버 코드 없이 빌드 결과(dist)만 올리는 정적 사이트
+  // Cloudflare Pages 정적 사이트: 빌드 결과(dist)를 그대로 올림 → wonchestra.pages.dev
   "name": "wonchestra",
   "compatibility_date": "2026-09-21",
-  "assets": {
-    "directory": "./dist",
-    "not_found_handling": "404-page"
-  }
+  "pages_build_output_dir": "./dist"
 }
