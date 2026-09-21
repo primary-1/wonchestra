@@ -1,0 +1,5 @@
+# 손 인식 모델과 wasm은 크고 자주 안 바뀌니 브라우저에 오래 캐시
+/models/*
+  Cache-Control: public, max-age=604800
+/mediapipe/*
+  Cache-Control: public, max-age=604800

@@ -4,6 +4,8 @@
 
 A conducting rhythm game in the browser: beat time with your right hand, shape dynamics with the size of your gestures, and cue orchestra sections with your left hand — all tracked from a webcam.
 
+**바로 해보기: https://wonchestra.xhajtm54.workers.dev** (웹캠 필요, 데스크톱 Chrome 권장)
+
 설계는 [docs/design.md](docs/design.md) 참고.
 
 ## 실행
@@ -43,6 +45,15 @@ pnpm chart public/songs/<id>/song.mid --title "곡 제목"
 | `Esc` | 메뉴로 |
 
 튜닝 값(박 감지 민감도, 셈여림 기준, 판정 범위)은 전부 `src/config.ts`에 있어.
+
+## 배포
+
+Cloudflare Workers 정적 자산으로 배포해요 (`wrangler.jsonc`).
+
+```bash
+pnpm exec wrangler login   # 처음 한 번
+pnpm run deploy            # 빌드 + 배포
+```
 
 ## 테스트
 
