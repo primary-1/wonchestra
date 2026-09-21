@@ -1,0 +1,6 @@
+node_modules
+dist
+.DS_Store
+# 설치 때 scripts/setup.mjs가 채움
+public/mediapipe
+public/models

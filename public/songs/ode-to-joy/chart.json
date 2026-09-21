@@ -1,0 +1,1935 @@
+{
+  "version": 1,
+  "title": "환희의 송가",
+  "bpm": 100,
+  "beatsPerBar": 4,
+  "duration": 67.10375,
+  "tracks": [
+    {
+      "index": 0,
+      "name": "Violin",
+      "program": 40,
+      "zone": "left"
+    },
+    {
+      "index": 1,
+      "name": "Strings",
+      "program": 48,
+      "zone": "left"
+    },
+    {
+      "index": 2,
+      "name": "Cello",
+      "program": 42,
+      "zone": "left"
+    },
+    {
+      "index": 3,
+      "name": "Flute",
+      "program": 73,
+      "zone": "center"
+    },
+    {
+      "index": 4,
+      "name": "Horn",
+      "program": 60,
+      "zone": "right"
+    },
+    {
+      "index": 5,
+      "name": "Timpani",
+      "program": 47,
+      "zone": "center"
+    }
+  ],
+  "notes": [
+    {
+      "type": "beat",
+      "time": 0,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 0
+    },
+    {
+      "type": "dynamics",
+      "time": 0,
+      "endTime": 4.8,
+      "level": "p",
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 1
+    },
+    {
+      "type": "hold",
+      "time": 0,
+      "endTime": 4.70375,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 2
+    },
+    {
+      "type": "beat",
+      "time": 0.6,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 3
+    },
+    {
+      "type": "beat",
+      "time": 1.2,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 4
+    },
+    {
+      "type": "beat",
+      "time": 1.7999999999999998,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 5
+    },
+    {
+      "type": "beat",
+      "time": 2.4,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 6
+    },
+    {
+      "type": "beat",
+      "time": 3,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 7
+    },
+    {
+      "type": "beat",
+      "time": 3.5999999999999996,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 8
+    },
+    {
+      "type": "beat",
+      "time": 4.2,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 9
+    },
+    {
+      "type": "beat",
+      "time": 4.8,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 10
+    },
+    {
+      "type": "dynamics",
+      "time": 4.8,
+      "endTime": 24,
+      "level": "mf",
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 11
+    },
+    {
+      "type": "cue",
+      "time": 4.8,
+      "zone": "left",
+      "tracks": [
+        0,
+        2
+      ],
+      "label": "Violin, Cello",
+      "difficulties": [
+        "normal"
+      ],
+      "id": 12
+    },
+    {
+      "type": "target",
+      "time": 4.8,
+      "x": 0.68,
+      "y": 0.72,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 13
+    },
+    {
+      "type": "beat",
+      "time": 5.3999999999999995,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 14
+    },
+    {
+      "type": "target",
+      "time": 5.3999999999999995,
+      "x": 0.52,
+      "y": 0.58,
+      "beatInBar": 2,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 15
+    },
+    {
+      "type": "beat",
+      "time": 6,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 16
+    },
+    {
+      "type": "target",
+      "time": 6,
+      "x": 0.84,
+      "y": 0.58,
+      "beatInBar": 3,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 17
+    },
+    {
+      "type": "beat",
+      "time": 6.6,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 18
+    },
+    {
+      "type": "target",
+      "time": 6.6,
+      "x": 0.68,
+      "y": 0.32,
+      "beatInBar": 4,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 19
+    },
+    {
+      "type": "beat",
+      "time": 7.199999999999999,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 20
+    },
+    {
+      "type": "beat",
+      "time": 7.8,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 21
+    },
+    {
+      "type": "beat",
+      "time": 8.4,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 22
+    },
+    {
+      "type": "beat",
+      "time": 9,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 23
+    },
+    {
+      "type": "beat",
+      "time": 9.6,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 24
+    },
+    {
+      "type": "target",
+      "time": 9.6,
+      "x": 0.68,
+      "y": 0.72,
+      "beatInBar": 1,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 25
+    },
+    {
+      "type": "beat",
+      "time": 10.2,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 26
+    },
+    {
+      "type": "target",
+      "time": 10.2,
+      "x": 0.52,
+      "y": 0.58,
+      "beatInBar": 2,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 27
+    },
+    {
+      "type": "beat",
+      "time": 10.799999999999999,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 28
+    },
+    {
+      "type": "target",
+      "time": 10.799999999999999,
+      "x": 0.84,
+      "y": 0.58,
+      "beatInBar": 3,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 29
+    },
+    {
+      "type": "target",
+      "time": 11.399999999999999,
+      "x": 0.68,
+      "y": 0.32,
+      "beatInBar": 4,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 30
+    },
+    {
+      "type": "beat",
+      "time": 11.4,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 31
+    },
+    {
+      "type": "beat",
+      "time": 12,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 32
+    },
+    {
+      "type": "beat",
+      "time": 12.6,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 33
+    },
+    {
+      "type": "beat",
+      "time": 13.2,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 34
+    },
+    {
+      "type": "beat",
+      "time": 13.799999999999999,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 35
+    },
+    {
+      "type": "beat",
+      "time": 14.399999999999999,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 36
+    },
+    {
+      "type": "target",
+      "time": 14.399999999999999,
+      "x": 0.68,
+      "y": 0.72,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 37
+    },
+    {
+      "type": "target",
+      "time": 14.999999999999998,
+      "x": 0.52,
+      "y": 0.58,
+      "beatInBar": 2,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 38
+    },
+    {
+      "type": "beat",
+      "time": 15,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 39
+    },
+    {
+      "type": "target",
+      "time": 15.599999999999998,
+      "x": 0.84,
+      "y": 0.58,
+      "beatInBar": 3,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 40
+    },
+    {
+      "type": "beat",
+      "time": 15.6,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 41
+    },
+    {
+      "type": "beat",
+      "time": 16.2,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 42
+    },
+    {
+      "type": "target",
+      "time": 16.2,
+      "x": 0.68,
+      "y": 0.32,
+      "beatInBar": 4,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 43
+    },
+    {
+      "type": "beat",
+      "time": 16.8,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 44
+    },
+    {
+      "type": "beat",
+      "time": 17.4,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 45
+    },
+    {
+      "type": "beat",
+      "time": 18,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 46
+    },
+    {
+      "type": "beat",
+      "time": 18.599999999999998,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 47
+    },
+    {
+      "type": "beat",
+      "time": 19.2,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 48
+    },
+    {
+      "type": "target",
+      "time": 19.2,
+      "x": 0.68,
+      "y": 0.72,
+      "beatInBar": 1,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 49
+    },
+    {
+      "type": "beat",
+      "time": 19.8,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 50
+    },
+    {
+      "type": "target",
+      "time": 19.8,
+      "x": 0.52,
+      "y": 0.58,
+      "beatInBar": 2,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 51
+    },
+    {
+      "type": "beat",
+      "time": 20.4,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 52
+    },
+    {
+      "type": "target",
+      "time": 20.4,
+      "x": 0.84,
+      "y": 0.58,
+      "beatInBar": 3,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 53
+    },
+    {
+      "type": "beat",
+      "time": 21,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 54
+    },
+    {
+      "type": "target",
+      "time": 21,
+      "x": 0.68,
+      "y": 0.32,
+      "beatInBar": 4,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 55
+    },
+    {
+      "type": "beat",
+      "time": 21.599999999999998,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 56
+    },
+    {
+      "type": "beat",
+      "time": 22.2,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 57
+    },
+    {
+      "type": "beat",
+      "time": 22.8,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 58
+    },
+    {
+      "type": "beat",
+      "time": 23.4,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 59
+    },
+    {
+      "type": "beat",
+      "time": 24,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 60
+    },
+    {
+      "type": "dynamics",
+      "time": 24,
+      "endTime": 43.199999999999996,
+      "level": "p",
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 61
+    },
+    {
+      "type": "cue",
+      "time": 24,
+      "zone": "center",
+      "tracks": [
+        3
+      ],
+      "label": "Flute",
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 62
+    },
+    {
+      "type": "target",
+      "time": 24,
+      "x": 0.68,
+      "y": 0.72,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 63
+    },
+    {
+      "type": "beat",
+      "time": 24.599999999999998,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 64
+    },
+    {
+      "type": "target",
+      "time": 24.6,
+      "x": 0.52,
+      "y": 0.58,
+      "beatInBar": 2,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 65
+    },
+    {
+      "type": "beat",
+      "time": 25.2,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 66
+    },
+    {
+      "type": "target",
+      "time": 25.2,
+      "x": 0.84,
+      "y": 0.58,
+      "beatInBar": 3,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 67
+    },
+    {
+      "type": "beat",
+      "time": 25.8,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 68
+    },
+    {
+      "type": "target",
+      "time": 25.8,
+      "x": 0.68,
+      "y": 0.32,
+      "beatInBar": 4,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 69
+    },
+    {
+      "type": "beat",
+      "time": 26.4,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 70
+    },
+    {
+      "type": "beat",
+      "time": 27,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 71
+    },
+    {
+      "type": "beat",
+      "time": 27.599999999999998,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 72
+    },
+    {
+      "type": "beat",
+      "time": 28.2,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 73
+    },
+    {
+      "type": "beat",
+      "time": 28.799999999999997,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 74
+    },
+    {
+      "type": "target",
+      "time": 28.799999999999997,
+      "x": 0.68,
+      "y": 0.72,
+      "beatInBar": 1,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 75
+    },
+    {
+      "type": "beat",
+      "time": 29.4,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 76
+    },
+    {
+      "type": "target",
+      "time": 29.4,
+      "x": 0.52,
+      "y": 0.58,
+      "beatInBar": 2,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 77
+    },
+    {
+      "type": "target",
+      "time": 29.999999999999996,
+      "x": 0.84,
+      "y": 0.58,
+      "beatInBar": 3,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 78
+    },
+    {
+      "type": "beat",
+      "time": 30,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 79
+    },
+    {
+      "type": "beat",
+      "time": 30.599999999999998,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 80
+    },
+    {
+      "type": "target",
+      "time": 30.599999999999998,
+      "x": 0.68,
+      "y": 0.32,
+      "beatInBar": 4,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 81
+    },
+    {
+      "type": "beat",
+      "time": 31.2,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 82
+    },
+    {
+      "type": "beat",
+      "time": 31.799999999999997,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 83
+    },
+    {
+      "type": "beat",
+      "time": 32.4,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 84
+    },
+    {
+      "type": "beat",
+      "time": 33,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 85
+    },
+    {
+      "type": "beat",
+      "time": 33.6,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 86
+    },
+    {
+      "type": "target",
+      "time": 33.6,
+      "x": 0.68,
+      "y": 0.72,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 87
+    },
+    {
+      "type": "beat",
+      "time": 34.199999999999996,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 88
+    },
+    {
+      "type": "target",
+      "time": 34.2,
+      "x": 0.52,
+      "y": 0.58,
+      "beatInBar": 2,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 89
+    },
+    {
+      "type": "beat",
+      "time": 34.8,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 90
+    },
+    {
+      "type": "target",
+      "time": 34.800000000000004,
+      "x": 0.84,
+      "y": 0.58,
+      "beatInBar": 3,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 91
+    },
+    {
+      "type": "beat",
+      "time": 35.4,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 92
+    },
+    {
+      "type": "target",
+      "time": 35.4,
+      "x": 0.68,
+      "y": 0.32,
+      "beatInBar": 4,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 93
+    },
+    {
+      "type": "beat",
+      "time": 36,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 94
+    },
+    {
+      "type": "beat",
+      "time": 36.6,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 95
+    },
+    {
+      "type": "beat",
+      "time": 37.199999999999996,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 96
+    },
+    {
+      "type": "beat",
+      "time": 37.8,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 97
+    },
+    {
+      "type": "beat",
+      "time": 38.4,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 98
+    },
+    {
+      "type": "target",
+      "time": 38.4,
+      "x": 0.68,
+      "y": 0.72,
+      "beatInBar": 1,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 99
+    },
+    {
+      "type": "beat",
+      "time": 39,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 100
+    },
+    {
+      "type": "target",
+      "time": 39,
+      "x": 0.52,
+      "y": 0.58,
+      "beatInBar": 2,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 101
+    },
+    {
+      "type": "beat",
+      "time": 39.6,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 102
+    },
+    {
+      "type": "target",
+      "time": 39.6,
+      "x": 0.84,
+      "y": 0.58,
+      "beatInBar": 3,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 103
+    },
+    {
+      "type": "beat",
+      "time": 40.199999999999996,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 104
+    },
+    {
+      "type": "target",
+      "time": 40.199999999999996,
+      "x": 0.68,
+      "y": 0.32,
+      "beatInBar": 4,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 105
+    },
+    {
+      "type": "beat",
+      "time": 40.8,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 106
+    },
+    {
+      "type": "beat",
+      "time": 41.4,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 107
+    },
+    {
+      "type": "beat",
+      "time": 42,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 108
+    },
+    {
+      "type": "beat",
+      "time": 42.6,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 109
+    },
+    {
+      "type": "beat",
+      "time": 43.199999999999996,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 110
+    },
+    {
+      "type": "dynamics",
+      "time": 43.199999999999996,
+      "endTime": 67.10375,
+      "level": "f",
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 111
+    },
+    {
+      "type": "cue",
+      "time": 43.199999999999996,
+      "zone": "right",
+      "tracks": [
+        4
+      ],
+      "label": "Horn",
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 112
+    },
+    {
+      "type": "target",
+      "time": 43.199999999999996,
+      "x": 0.68,
+      "y": 0.72,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 113
+    },
+    {
+      "type": "beat",
+      "time": 43.8,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 114
+    },
+    {
+      "type": "target",
+      "time": 43.8,
+      "x": 0.52,
+      "y": 0.58,
+      "beatInBar": 2,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 115
+    },
+    {
+      "type": "beat",
+      "time": 44.4,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 116
+    },
+    {
+      "type": "target",
+      "time": 44.4,
+      "x": 0.84,
+      "y": 0.58,
+      "beatInBar": 3,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 117
+    },
+    {
+      "type": "target",
+      "time": 44.99999999999999,
+      "x": 0.68,
+      "y": 0.32,
+      "beatInBar": 4,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 118
+    },
+    {
+      "type": "beat",
+      "time": 45,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 119
+    },
+    {
+      "type": "beat",
+      "time": 45.6,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 120
+    },
+    {
+      "type": "beat",
+      "time": 46.199999999999996,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 121
+    },
+    {
+      "type": "beat",
+      "time": 46.8,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 122
+    },
+    {
+      "type": "beat",
+      "time": 47.4,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 123
+    },
+    {
+      "type": "beat",
+      "time": 48,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 124
+    },
+    {
+      "type": "target",
+      "time": 48,
+      "x": 0.68,
+      "y": 0.72,
+      "beatInBar": 1,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 125
+    },
+    {
+      "type": "beat",
+      "time": 48.6,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 126
+    },
+    {
+      "type": "target",
+      "time": 48.6,
+      "x": 0.52,
+      "y": 0.58,
+      "beatInBar": 2,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 127
+    },
+    {
+      "type": "beat",
+      "time": 49.199999999999996,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 128
+    },
+    {
+      "type": "target",
+      "time": 49.2,
+      "x": 0.84,
+      "y": 0.58,
+      "beatInBar": 3,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 129
+    },
+    {
+      "type": "beat",
+      "time": 49.8,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 130
+    },
+    {
+      "type": "target",
+      "time": 49.8,
+      "x": 0.68,
+      "y": 0.32,
+      "beatInBar": 4,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 131
+    },
+    {
+      "type": "beat",
+      "time": 50.4,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 132
+    },
+    {
+      "type": "beat",
+      "time": 51,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 133
+    },
+    {
+      "type": "beat",
+      "time": 51.6,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 134
+    },
+    {
+      "type": "beat",
+      "time": 52.199999999999996,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 135
+    },
+    {
+      "type": "beat",
+      "time": 52.8,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 136
+    },
+    {
+      "type": "target",
+      "time": 52.8,
+      "x": 0.68,
+      "y": 0.72,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 137
+    },
+    {
+      "type": "beat",
+      "time": 53.4,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 138
+    },
+    {
+      "type": "target",
+      "time": 53.4,
+      "x": 0.52,
+      "y": 0.58,
+      "beatInBar": 2,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 139
+    },
+    {
+      "type": "beat",
+      "time": 54,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 140
+    },
+    {
+      "type": "target",
+      "time": 54,
+      "x": 0.84,
+      "y": 0.58,
+      "beatInBar": 3,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 141
+    },
+    {
+      "type": "target",
+      "time": 54.599999999999994,
+      "x": 0.68,
+      "y": 0.32,
+      "beatInBar": 4,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 142
+    },
+    {
+      "type": "beat",
+      "time": 54.6,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 143
+    },
+    {
+      "type": "beat",
+      "time": 55.199999999999996,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 144
+    },
+    {
+      "type": "beat",
+      "time": 55.8,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 145
+    },
+    {
+      "type": "beat",
+      "time": 56.4,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 146
+    },
+    {
+      "type": "beat",
+      "time": 57,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 147
+    },
+    {
+      "type": "beat",
+      "time": 57.599999999999994,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 148
+    },
+    {
+      "type": "target",
+      "time": 57.599999999999994,
+      "x": 0.68,
+      "y": 0.72,
+      "beatInBar": 1,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 149
+    },
+    {
+      "type": "beat",
+      "time": 58.199999999999996,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 150
+    },
+    {
+      "type": "target",
+      "time": 58.199999999999996,
+      "x": 0.52,
+      "y": 0.58,
+      "beatInBar": 2,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 151
+    },
+    {
+      "type": "beat",
+      "time": 58.8,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 152
+    },
+    {
+      "type": "target",
+      "time": 58.8,
+      "x": 0.84,
+      "y": 0.58,
+      "beatInBar": 3,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 153
+    },
+    {
+      "type": "target",
+      "time": 59.39999999999999,
+      "x": 0.68,
+      "y": 0.32,
+      "beatInBar": 4,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 154
+    },
+    {
+      "type": "beat",
+      "time": 59.4,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 155
+    },
+    {
+      "type": "beat",
+      "time": 60,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 156
+    },
+    {
+      "type": "beat",
+      "time": 60.599999999999994,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 157
+    },
+    {
+      "type": "beat",
+      "time": 61.199999999999996,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 158
+    },
+    {
+      "type": "beat",
+      "time": 61.8,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 159
+    },
+    {
+      "type": "beat",
+      "time": 62.4,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 160
+    },
+    {
+      "type": "hold",
+      "time": 62.4,
+      "endTime": 67.10375,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 161
+    },
+    {
+      "type": "target",
+      "time": 62.4,
+      "x": 0.68,
+      "y": 0.72,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 162
+    },
+    {
+      "type": "beat",
+      "time": 63,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 163
+    },
+    {
+      "type": "target",
+      "time": 63,
+      "x": 0.52,
+      "y": 0.58,
+      "beatInBar": 2,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 164
+    },
+    {
+      "type": "beat",
+      "time": 63.599999999999994,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 165
+    },
+    {
+      "type": "target",
+      "time": 63.6,
+      "x": 0.84,
+      "y": 0.58,
+      "beatInBar": 3,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 166
+    },
+    {
+      "type": "beat",
+      "time": 64.2,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 167
+    },
+    {
+      "type": "target",
+      "time": 64.2,
+      "x": 0.68,
+      "y": 0.32,
+      "beatInBar": 4,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 168
+    },
+    {
+      "type": "beat",
+      "time": 64.8,
+      "beatInBar": 1,
+      "difficulties": [
+        "easy",
+        "normal",
+        "hard"
+      ],
+      "id": 169
+    },
+    {
+      "type": "beat",
+      "time": 65.39999999999999,
+      "beatInBar": 2,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 170
+    },
+    {
+      "type": "beat",
+      "time": 66,
+      "beatInBar": 3,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 171
+    },
+    {
+      "type": "beat",
+      "time": 66.6,
+      "beatInBar": 4,
+      "difficulties": [
+        "normal",
+        "hard"
+      ],
+      "id": 172
+    },
+    {
+      "type": "cutoff",
+      "time": 67.10375,
+      "difficulties": [
+        "hard"
+      ],
+      "id": 173
+    }
+  ]
+}

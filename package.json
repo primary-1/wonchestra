@@ -1,0 +1,28 @@
+{
+  "name": "wonchestra",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "demo-midi": "tsx scripts/makeDemoMidi.ts",
+    "chart": "tsx scripts/makeChart.ts",
+    "postinstall": "node scripts/setup.mjs"
+  },
+  "dependencies": {
+    "@mediapipe/tasks-vision": "^1.0.1",
+    "@tonejs/midi": "^2.0.28",
+    "smplr": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.0",
+    "vitest": "^5.0.1"
+  }
+}

@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wonchestra</title>
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <video id="camera" playsinline muted></video>
+    <canvas id="stage"></canvas>
+
+    <section id="menu" class="panel">
+      <h1>Wonchestra</h1>
+      <p class="sub">손으로 지휘하는 오케스트라 리듬게임</p>
+
+      <label class="field">
+        <span>곡</span>
+        <select id="song"></select>
+      </label>
+
+      <div class="field">
+        <span>난이도</span>
+        <div id="difficulty" class="segmented">
+          <button data-value="easy">Easy</button>
+          <button data-value="normal">Normal</button>
+          <button data-value="hard">Hard</button>
+        </div>
+      </div>
+
+      <ul class="howto">
+        <li><b class="r">오른손</b> 위에서 아래로 박을 찍기. 크게 저으면 크게(f), 작게 저으면 작게(p)</li>
+        <li><b class="r">원</b> 링이 원에 닿을 때 오른손을 원 안에 두기</li>
+        <li><b class="l">왼손 👉</b> 큐가 뜬 파트 쪽을 검지로 가리키기 <em>(Normal~)</em></li>
+        <li><b class="l">왼손 ✋ / ✊</b> 손바닥 펴서 유지, 주먹 쥐어 끝내기 <em>(Hard)</em></li>
+      </ul>
+
+      <div class="row">
+        <button id="tutorial">튜토리얼</button>
+        <button id="start" class="primary">시작</button>
+      </div>
+      <p id="status" class="status"></p>
+      <p class="keys"><kbd>[</kbd> <kbd>]</kbd> 지연 보정 · <kbd>H</kbd> 좌우 손 바꾸기 · <kbd>D</kbd> 디버그 · <kbd>→</kbd> 튜토리얼 건너뛰기 · <kbd>Esc</kbd> 그만하기</p>
+    </section>
+
+    <section id="result" class="panel hidden">
+      <h2 id="result-title"></h2>
+      <div id="rank" class="rank"></div>
+      <div id="result-score" class="score"></div>
+      <table id="result-table"></table>
+      <div class="row">
+        <button id="retry" class="primary">다시 하기</button>
+        <button id="back">메뉴로</button>
+      </div>
+    </section>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
